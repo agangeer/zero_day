@@ -1,1 +1,1 @@
-new virtual machune
+new virtual machine
