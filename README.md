@@ -2,4 +2,4 @@
 
 *This learning about **vagrant and virtualbox**
 
-*How to downloaad a **virtual disk
+*How to download a **virtual disk
